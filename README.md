@@ -8,9 +8,13 @@
 
 # 세부사항
 개발 멤버 : 김민선, 임나영
+
 사용 라이브러리 : Visual Studio (Mac용 2019)
+
 개발환경 : ios
+
 설치환경 : Android
+
 라이센스 : Unity Personal
 
 # 게임기능
